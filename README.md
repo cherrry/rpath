@@ -2,6 +2,12 @@
 
 Recursive path traversal
 
+## Install
+
+```
+$ npm install --save rpath
+```
+
 ## Usage
 
 ```js
