@@ -1,0 +1,22 @@
+{
+  "name": "rpath",
+  "description": "Recursive path traversal",
+  "version": "0.0.1",
+  "reposiotry": {
+    "type": "git",
+    "url": "https://github.com/cherrry/rpath.git"
+  },
+  "keywords": [
+    "path",
+    "fs",
+    "traversal"
+  ],
+  "author": {
+    "name": "Cherry Ng",
+    "email": "cherry92@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/cherrry/rpath/issues"
+  },
+  "homepage": "https://github.com/cherrry/rpath"
+}
